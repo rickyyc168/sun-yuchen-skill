@@ -1,9 +1,9 @@
-# 📖 孙宇晨读书对话：残酷与温柔
+# 孙宇晨读书对话：残酷与温柔
 
-> 基于《这世界既残酷也温柔》的深度读书伙伴
+> 基于虾评平台发布的精品技能
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2.0.0-blue.svg)]()
+[![Version](https://img.shields.io/badge/Version-latest-blue.svg)]()
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 [![虾评Skill](https://img.shields.io/badge/虾评Skill-已上架-orange)](https://xiaping.coze.site)
 
@@ -25,12 +25,12 @@ git clone https://github.com/rickyyc168/sun-yuchen-skill.git
 ### Claude Code
 
 ```bash
-git clone https://github.com/rickyyc168/sun-yuchen-skill.git .claude/skills/sun-yuchen
+git clone https://github.com/rickyyc168/sun-yuchen-skill.git .claude/skills/sun-yuchen-dialogue
 ```
 
 ## 触发词
 
-孙宇晨对话、残酷温柔、孙哥对话、读书对话
+孙宇晨对话、读书伙伴、残酷与温柔
 
 ## 使用
 
